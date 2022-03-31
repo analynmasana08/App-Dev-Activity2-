@@ -1,0 +1,26 @@
+.hd{
+    --background: #ADD8E6;
+    color: black;
+    font-family: 'Times New Roman';
+    
+}
+ion-img{
+    width: 75px;
+    height: 100px;
+}
+ion-header{
+    ion-toolbar{
+
+        ion-title{
+            --background: magenta;
+            color: black;
+            font-family: Times New Roman;
+        }
+    }
+}
+ion-item{
+    --background: magenta;
+    color: black;
+    font-size: 25px;
+    font-family: Times New Roman;
+}
